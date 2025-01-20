@@ -1,7 +1,10 @@
 AWS-Capstone-Project-1
+
 How to Deploy a Multi-Tier PHP Website Using the AWS EC2 & MySQL RDS
 
 Problem Solution:
+
+
 Step 1: Create an EC2 Server and Install the Apache on it
 
 Step 2: Deploy the PHP website on the EC2 Server
